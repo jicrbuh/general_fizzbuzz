@@ -1,10 +1,10 @@
 # General fizzbuzz program
 
-Accepts two integers, n,m, prints the positive integers from 1 to 100, but if the integer is dividable by n (m) instead of the integer fizz (buzz) is printed. If the integer is dividable both by n and m, fizzbuzz is printed. 
+The program accepts two integers, n,m, prints the positive integers from 1 to 100, but if the integer is dividable by n (m) instead of the integer fizz (buzz) is printed. If the integer is dividable both by n and m, fizzbuzz is printed. 
 
 example usage:
 ```
-./general_fizzbuzz.py 4 7
+./general_fizzbuzz.py 3 7
 ```
 output:
 ```
